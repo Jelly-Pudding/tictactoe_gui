@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tictacgui", "tictacgui.csproj", "{29353523-D69E-4ECA-9A8B-B536842526CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "board", "..\board\board.csproj", "{E6838D23-9760-4BBA-8B3A-FD1389B729DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29353523-D69E-4ECA-9A8B-B536842526CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29353523-D69E-4ECA-9A8B-B536842526CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29353523-D69E-4ECA-9A8B-B536842526CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29353523-D69E-4ECA-9A8B-B536842526CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6838D23-9760-4BBA-8B3A-FD1389B729DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6838D23-9760-4BBA-8B3A-FD1389B729DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6838D23-9760-4BBA-8B3A-FD1389B729DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6838D23-9760-4BBA-8B3A-FD1389B729DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {630284C0-7906-409B-9756-4035F1721BD1}
+	EndGlobalSection
+EndGlobal
